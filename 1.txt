@@ -16,9 +16,8 @@ momo综合,rtmp://f13h.mine.nu/sat/tv761
 寰宇新聞，https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8
 寰宇新聞台湾台,https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8
 中视新闻,https://stream1.freetv.fun/3a583495eeab7f54152b8e8dd24fec83f7834083a2b7e2a5260f66dc4bde5860.m3u8
-东森新闻,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
-台体育，#genre#
-纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+台体育,#genre#
+
 
 
 
