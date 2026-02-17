@@ -11,6 +11,7 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 华视HD,http://nmk.ioapk.com:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 民视无线,http://142.54.179.26:81/live/ftv.m3u8?tm=1771299317&key=40fa6b899a1c87f43dcd56c86a1e88d3
+民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1771299799&key=08a58ac858cb315dcebeecc02bfda7df
 台 新闻,#genre#
 镜新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 三立inews,https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
@@ -26,8 +27,8 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 台 体育,#genre#
 momo综合,rtmp://f13h.mine.nu/sat/tv761
 台 其他,#genre#
-华视教育体育文化,http://142.54.179.26:81/live/ctsnews.m3u8?tm=1771297595&key=eaee3c33b12a08a3c083dc7b2d53b6cd
-国会频道,http://61.58.60.230:9319/live/123.m3u8
+华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 
 
 
