@@ -1,6 +1,7 @@
 台 儿童,#genre#
 MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 小公视,http://142.54.179.26:81/live/ptsse.m3u8?tm=1771303152&key=246f84187577d7f647c4632babe24ad2
+经典卡通,https://stream1.freetv.fun/999d5e5605f738c169f98d42b6d5d9502c8b42857e29d0628dbc153785ff75d3.m3u8
 台 宗教,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 唯心卫视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -14,7 +15,7 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1771299799&key=08a58ac858cb315dcebeecc02bfda7df
 民视台湾,http://142.54.179.26:81/live/ftvtw.m3u8?tm=1771302014&key=0854dc62759aa0f6aab219472ab21acc
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-三立都会,https://haoyunlai.serv00.net/Smartv-1.php?id=sanlidouhui_twn
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 台 影视,#genre#
 八大戏剧,https://stream1.freetv.fun/6b1701a07ea621155cdaa9ee604b6c6ebc763093fafaf493ce7a3c2e206be799.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -37,6 +38,7 @@ momo综合,rtmp://f13h.mine.nu/sat/tv761
 华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 原住民电视,https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
+
 
 
 
