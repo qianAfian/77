@@ -17,7 +17,6 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 台 影视,#genre#
 八大戏剧,https://stream1.freetv.fun/6b1701a07ea621155cdaa9ee604b6c6ebc763093fafaf493ce7a3c2e206be799.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
-龙华偶像,http://50.7.238.114:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 台 新闻,#genre#
 镜新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 三立inews,https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
@@ -36,6 +35,7 @@ momo综合,rtmp://f13h.mine.nu/sat/tv761
 华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 原住民电视,https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
+
 
 
 
