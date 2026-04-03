@@ -17,6 +17,7 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 台 影视,#genre#
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+Lifetime,http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
 台 新闻,#genre#
 镜新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 三立新闻,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
@@ -31,7 +32,6 @@ MoMo亲子台,http://nmk.ioapk.com:5050/4gtv-live107/index.m3u8?proxy=true
 华视新闻,http://142.54.179.26:81/live/ctsnews.m3u8?tm=1771297595&key=eaee3c33b12a08a3c083dc7b2d53b6cd
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 台 体育,#genre#
-momo综合,rtmp://f13h.mine.nu:1935/sat/tv761rtmp://f13h.mine.nu:1935/sat/tv761
 台 其他,#genre#
 华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
