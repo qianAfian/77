@@ -1,7 +1,7 @@
 台 儿童,#genre#
 MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
 小公视,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
-经典卡通,https://stream1.freetv.fun/999d5e5605f738c169f98d42b6d5d9502c8b42857e29d0628dbc153785ff75d3.m3u8
+经典卡通,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
 台 宗教,#genre#
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 唯心卫视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
@@ -15,7 +15,8 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1771299799&key=08a58ac858cb315dcebeecc02bfda7df
 民视台湾,http://142.54.179.26:81/live/ftvtw.m3u8?tm=1771302014&key=0854dc62759aa0f6aab219472ab21acc
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+TVBS亚洲 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 台 影视,#genre#
 八大精彩,http://220.135.64.124:5050/4gtv-4gtv034/index.m3u8?proxy=true
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -34,6 +35,7 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 华视新闻,http://142.54.179.26:81/live/ctsnews.m3u8?tm=1771297595&key=eaee3c33b12a08a3c083dc7b2d53b6cd
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 台 体育,#genre#
+MOMOTV rtmp://f13h.mine.nu/sat/tv761
 台 财经，#genre#
 耀才财经 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 台 其他,#genre#
