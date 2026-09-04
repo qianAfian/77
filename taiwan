@@ -22,7 +22,7 @@ CGN中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f
 华视HD,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1788486045&key=dd93491a079667ca09d9d52ddd5b1326
-民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
+民视台湾,rtmp://f13h.mine.nu/sat/tv331
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -64,7 +64,7 @@ HSTORY电影,http://37.27.111.214:8080/live/27/hls.m3u8
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新聞台湾台,https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8
 中视新闻,https://stream1.freetv.fun/3a583495eeab7f54152b8e8dd24fec83f7834083a2b7e2a5260f66dc4bde5860.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 华视新闻,http://142.54.179.26:81/live/ctsnews.m3u8?tm=1771297595&key=eaee3c33b12a08a3c083dc7b2d53b6cd
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
@@ -81,8 +81,7 @@ dazn2,rtmp://f13h.mine.nu/sat/tv741
 国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 原住民族电视台,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-购物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-
+世新综合,http://61.58.60.230:9319/live/49.m3u8
 
 
 
