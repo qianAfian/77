@@ -37,7 +37,7 @@ HSTORY电影,http://37.27.111.214:8080/live/27/hls.m3u8
 中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来戏剧,https://iptv.yang-1989.xyz/tw/v59yzd?token=ac14dd81df7c4541bbd6c8c30caf2c381ba0f0dae5a8f78d
-纬来育乐,rtmp://f13h.mine.nu:1935/sat/tv701
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 台湾戏剧,https://iptv.yang-1989.xyz/ofiii/sfu8jj?token=b1d1a0616829b7e197df85a96ff2a2ebd26799cc9466a55c
 龙华洋片,https://cdn.qd.je/163189.php?id=lhyp
 龙华电影,https://cdn.qd.je/163189.php?id=lhdy
@@ -71,7 +71,8 @@ HSTORY电影,http://37.27.111.214:8080/live/27/hls.m3u8
 年代新闻,https://iptv.yang-1989.xyz/tw/f5hemv?token=ac14dd81df7c4541bbd6c8c30caf2c381ba0f0dae5a8f78d
 台 体育,#genre#
 MOMOTV,rtmp://f13h.mine.nu/sat/tv761
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育rtmp://f13h.mine.nu/sat/tv721
+dazn1,rtmp://f13h.mine.nu/sat/tv731
 台 财经,#genre#
 寰宇财经,https://iptv.yang-1989.xyz/ofiii/xvn4wc?token=ac14dd81df7c4541bbd6c8c30caf2c381ba0f0dae5a8f78d
 台 其他,#genre#
