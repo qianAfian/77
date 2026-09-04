@@ -1,6 +1,6 @@
 台 儿童,#genre#
 MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=1782639885837
-小公视,https://stream1.freetv.fun/f415852174b30f1fc43d85ce4bf9347586de6f2d688ba1fe1a4095a9db20dcdd.m3u8
+小公视,http://74.91.26.218:82/live/ptsse.m3u8
 经典卡通,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
 龙华卡通,https://cdn.qd.je/163189.php?id=lhkt
 靖洋卡通,http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
@@ -10,6 +10,7 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 唯心卫视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 生命卫视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 大爱一台,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
+CGN中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 好消息一台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
 好消息2台,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
 台 综合,#genre#
@@ -75,7 +76,6 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 台 其他,#genre#
 华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
 国会频道,http://nmk.ioapk.com:5050/of-4gtv-4gtv085/index.m3u8?proxy=true
-原住民电视,https://stream1.freetv.fun/22c5da7b5ac3a6d641b5139dd45ef88240a204734ee223eaaec7aee861817cfe.m3u8
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
