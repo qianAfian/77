@@ -17,8 +17,8 @@ MoMo亲子台,http://4gtv.cnlive.club/channel/n33a56e39/index.m3u8?q=17826398858
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视HD,rtmp://f13h.mine.nu/sat/tv111
 民视,rtmp://f13h.mine.nu/sat/tv051
-民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1771299799&key=08a58ac858cb315dcebeecc02bfda7df
-民视台湾,http://142.54.179.26:81/live/ftvtw.m3u8?tm=1771302014&key=0854dc62759aa0f6aab219472ab21acc
+民视第一,http://142.54.179.26:81/live/ftvdy.m3u8?tm=1788486045&key=dd93491a079667ca09d9d52ddd5b1326
+民视台湾,http://74.91.26.218:82/live/ftvtw.m3u8
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -53,7 +53,7 @@ HSTORY电影,http://37.27.111.214:8080/live/27/hls.m3u8
 镜新闻,https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8
 三立新闻,https://epg.pw/stream/bad9a4ebaf24f0b19d4edd02bef68b5dd5b463eb5527e4b44bb68e23248c6ddb.m3u8
 三立inews,https://stream1.freetv.fun/40730e5040013825b1badb3d180fa6022bc81c8afe86a5d6ece6bc83e1566a56.m3u8
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 寰宇新聞,https://stream1.freetv.fun/7fcd19485260298737eeb56138cc149f0be0cc175bf93721e4074bfb2b63fbe0.m3u8
 寰宇新聞台湾台,https://stream1.freetv.fun/def5a6f37b1ac6bb85367130b5f3cf8e7cb0605a6af23489f6d60902f9e4f1d2.m3u8
